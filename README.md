@@ -36,6 +36,8 @@ A template repository for NLP projects
 ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
 │                         generated with `pip freeze > requirements.txt`
 │
+├── .env               <- Store environment variables
+│
 ├── setup.cfg          <- Configuration file for flake8
 │
 └── src/nlp_project_template   <- Source code for use in this project.
