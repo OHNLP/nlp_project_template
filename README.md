@@ -40,6 +40,10 @@ A template repository for NLP projects
 │
 ├── setup.cfg          <- Configuration file for flake8
 │
+├── sql                <- Store sql queries
+│
+├── setup.cfg          <- Configuration file for flake8│
+│
 └── src/nlp_project_template   <- Source code for use in this project.
     │
     ├── __init__.py             <- Makes nlp_project_template a Python module
