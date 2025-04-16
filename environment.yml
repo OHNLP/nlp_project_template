@@ -10,9 +10,6 @@ dependencies:
   - pandas
   - matplotlib
   - numpy
-  - black
-  - flake8
-  - isort
   - ipykernel
   - pip:
     - python-dotenv
