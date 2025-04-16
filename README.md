@@ -66,3 +66,5 @@ A template repository for NLP projects
 
 --------
 
+### Create a virtual environment with:
+`conda env create -f environment.yml`
